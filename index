@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+<section>
+    <div class= "hero_block">
+        <header>
+            <h1>My Name Here</h1>
+        </header>
+
+        <header>
+            <h2>Product Specialist</h2>
+        </header>
+
+        <header>
+            <h3>Information Architect / UX & UI Design </h3>
+        </header>
+
+        <p>Super Cool Blurb goes here lorem ipsum dolor sit amet consectetur. Neque egestas mi bibendum sollicitudin in. Duis tincidunt quisque quam enim donec neque. Congue amet gravida felis aliquet in.</p>
+    </div>
+
+    <button class="about_button">About Me</button>
+
+    <button class="downoad_resume">Download Resume</button>
+</section>
+<section>
+    <nav class= "nav_bar">
+        <a href="Option1">Option1</a> |
+        <a href="Option2">Option2</a> |
+        <a href="Option3">Option3</a> |
+        <a href="Option4">Option4</a> |
+        <a href="Option5">Option5</a> |
+        </nav>
+</section>
+<section>
+    <div class="hero_block">
+        <img src="/Users/alecmillman/Desktop/GitHub/ACM_UX_Design_HW_17/images/FakeHero.png">
+    </div>
+    <div>
+        <ul>
+            <li>Information Architecture</li>
+            <li>UX Design</li>
+            <li>Data Analysis</li>
+            <li>Database Management</li>
+          </ul>
+    </div>
+
+</section>
+
+</body>
+</html>

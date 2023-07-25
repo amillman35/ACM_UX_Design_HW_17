@@ -1,0 +1,36 @@
+
+.title_name{
+    display: inline-block;
+    text-align: center;
+    background-color: green;
+    width: 200px;
+ }
+ 
+ .nav_bar{
+     display: inline-block;
+ }
+ 
+ .hero_img{
+     display: inline-block;
+ }
+ 
+ .job_title{
+     display: inline-block;
+     text-align: center;
+     /*background-color: green;*/
+ }
+  
+ .title_block{
+   text-align: center;
+ }
+ .hero_section{
+    text-align: right;
+ }
+
+ .job_title_section{
+    text-align: left;
+ }
+ 
+ .buttons{
+    text-align: center;
+ }
